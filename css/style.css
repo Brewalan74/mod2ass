@@ -10,6 +10,10 @@ h1 {
   margin-bottom: 35px;
 }
 
+div.container {
+  width: 100%;
+}
+
 div#container {
   background-color: darkgrey;
   position: relative;
@@ -49,6 +53,7 @@ p {
       float: left;
       border: 1px solid black;
       margin: 15px;
+      padding: 15px;
     }
     .col-lg-1 {
       width: 8.33%;
